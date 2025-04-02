@@ -1,0 +1,72 @@
+{
+    "title": "Metal Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual desses guitarristas você gostaria de ter na sua banda?",
+        "options": [
+          { "id": 1, "name": "Slash", "alias": "A" },
+          { "id": 2, "name": "Kirk Hammett", "alias": "B" },
+          { "id": 3, "name": "Zakk Wylde", "alias": "C" },
+          { "id": 4, "name": "Tony Iommi", "alias": "D" }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual dessas músicas icônicas define sua vibe?",
+        "options": [
+          { "id": 1, "name": "Crazy Train - Ozzy Osbourne", "alias": "A" },
+          { "id": 2, "name": "Sweet Child O' Mine - Guns N' Roses", "alias": "B" },
+          { "id": 3, "name": "Master of Puppets - Metallica", "alias": "C" },
+          { "id": 4, "name": "Raining Blood - Slayer", "alias": "D" }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "O que é mais importante em uma banda de metal?",
+        "options": [
+          { "id": 1, "name": "Riffs pesados e rápidos", "alias": "A" },
+          { "id": 2, "name": "Letras profundas e sombrias", "alias": "B" },
+          { "id": 3, "name": "Presença de palco explosiva", "alias": "C" },
+          { "id": 4, "name": "Técnica impecável", "alias": "D" }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Se pudesse ter um poder relacionado ao metal, qual seria?",
+        "options": [
+          { "id": 1, "name": "Soltar solos de guitarra que hipnotizam", "alias": "A" },
+          { "id": 2, "name": "Gritar como Ozzy e fazer todos entrarem em transe", "alias": "B" },
+          { "id": 3, "name": "Fazer um mosh pit aparecer do nada", "alias": "C" },
+          { "id": 4, "name": "Ter a resistência de um baterista de thrash metal", "alias": "D" }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual dessas bandas você ouviria para sempre?",
+        "options": [
+          { "id": 1, "name": "Black Sabbath", "alias": "A" },
+          { "id": 2, "name": "Megadeth", "alias": "B" },
+          { "id": 3, "name": "Guns N' Roses", "alias": "C" },
+          { "id": 4, "name": "Iron Maiden", "alias": "D" }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "O que você mais gosta em um show de metal?",
+        "options": [
+          { "id": 1, "name": "O feeling dos solos", "alias": "A" },
+          { "id": 2, "name": "A energia do público", "alias": "B" },
+          { "id": 3, "name": "Os riffs insanos", "alias": "C" },
+          { "id": 4, "name": "O caos do mosh pit", "alias": "D" }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Você é um verdadeiro fã do hard rock e do thrash metal! Curte guitarras afiadas e solos icônicos. Provavelmente tem um espírito rebelde e um amor por bandas como Guns N’ Roses, Megadeth e Slayer.",
+      "B": "Você é um amante do heavy metal clássico! Curte músicas que transcendem gerações e tem uma admiração por mestres como Ozzy, Black Sabbath, Iron Maiden e Metallica.",
+      "C": "Você é fã do metal moderno e riffs pesados! Aprecia a técnica e o poder das guitarras, com um amor por bandas como Metallica, Slayer e Pantera.",
+      "D": "Você é um entusiasta do metal tradicional e do doom metal! Gosta de músicas profundas e experimentais, com um foco na técnica e no poder do som pesado de bandas como Black Sabbath e Iron Maiden."
+    }
+  }
+  
